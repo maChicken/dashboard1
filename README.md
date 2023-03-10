@@ -7,7 +7,7 @@
 1. В терминале перейти в папку server (cd server);
 2. В файле .env вставить свои данные для подключения к БД;
 3. Установить необходимые модули (npm install cors dotenv express nodemon pg pg-hstore sequelize);
-4. Запустить (npm run dev);Cancel changes
+4. Запустить (npm run dev);
 
 Клиент:
 
